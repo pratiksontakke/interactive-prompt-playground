@@ -1,7 +1,7 @@
 
 # Interactive Prompt Playground
 
-A web-based tool for testing and comparing OpenAI API responses across different parameter configurations. This playground allows users to experiment with various OpenAI parameters to understand how they affect the generated outputs.
+A console based tool for testing and comparing OpenAI API responses across different parameter configurations. This playground allows users to experiment with various OpenAI parameters to understand how they affect the generated outputs.
 
 ## Features
 
