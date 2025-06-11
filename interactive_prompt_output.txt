@@ -1,0 +1,598 @@
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Model: gpt-3.5-turbo
+Temperature: 0.0
+Max Tokens: 50
+Presence Penalty: 0.0
+Frequency Penalty: 0.0
+
+Assistant Response:
+The iPhone is a revolutionary smartphone that combines cutting-edge technology with sleek design. With its powerful performance, stunning display, and intuitive user interface, the iPhone offers a seamless and enjoyable user experience. Whether you're browsing the web, taking photos, or staying
+
+Token Usage:
+Prompt Tokens     : 22
+Completion Tokens : 50
+Total Tokens      : 72
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Model: gpt-3.5-turbo
+Temperature: 0.0
+Max Tokens: 50
+Presence Penalty: 0.0
+Frequency Penalty: 1.5
+
+Assistant Response:
+The iPhone is a revolutionary smartphone that combines cutting-edge technology with sleek design. With its powerful performance, stunning display, and intuitive user interface, the iPhone offers a seamless experience for all your communication and entertainment needs. Whether you're browsing the web, taking
+
+Token Usage:
+Prompt Tokens     : 22
+Completion Tokens : 50
+Total Tokens      : 72
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Model: gpt-3.5-turbo
+Temperature: 0.0
+Max Tokens: 50
+Presence Penalty: 1.5
+Frequency Penalty: 0.0
+
+Assistant Response:
+The iPhone is a revolutionary smartphone that combines cutting-edge technology with sleek design. With its powerful performance, stunning display, and intuitive user interface, the iPhone offers a seamless experience for all your communication, entertainment, and productivity needs.
+
+Featuring advanced cameras that
+
+Token Usage:
+Prompt Tokens     : 22
+Completion Tokens : 50
+Total Tokens      : 72
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Model: gpt-3.5-turbo
+Temperature: 0.0
+Max Tokens: 50
+Presence Penalty: 1.5
+Frequency Penalty: 1.5
+
+Assistant Response:
+The iPhone is a revolutionary smartphone that combines cutting-edge technology with sleek design. With its powerful performance, stunning display, and intuitive user interface, the iPhone offers an unparalleled mobile experience. Whether you're browsing the web, capturing memories with the high-quality camera
+
+Token Usage:
+Prompt Tokens     : 22
+Completion Tokens : 50
+Total Tokens      : 72
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Model: gpt-3.5-turbo
+Temperature: 0.0
+Max Tokens: 150
+Presence Penalty: 0.0
+Frequency Penalty: 0.0
+
+Assistant Response:
+The iPhone is a revolutionary smartphone that combines cutting-edge technology with sleek design. With its powerful performance, stunning display, and intuitive user interface, the iPhone offers a seamless and enjoyable user experience. Whether you're browsing the web, taking photos, or staying connected with friends and family, the iPhone delivers exceptional performance and reliability. With a wide range of features and capabilities, the iPhone is the perfect companion for both work and play. Experience the future of mobile technology with the iPhone.
+
+Token Usage:
+Prompt Tokens     : 22
+Completion Tokens : 95
+Total Tokens      : 117
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Model: gpt-3.5-turbo
+Temperature: 0.0
+Max Tokens: 150
+Presence Penalty: 0.0
+Frequency Penalty: 1.5
+
+Assistant Response:
+Introducing the iPhone, a revolutionary device that has redefined the way we communicate, work, and play. With its sleek design and cutting-edge technology, the iPhone offers a seamless user experience like no other.
+
+Featuring a stunning Retina display, powerful A-series chip for lightning-fast performance, and an advanced camera system that captures incredible photos and videos in any lighting conditions. The iPhone also boasts Face ID for secure authentication and Apple Pay for convenient mobile payments.
+
+Stay connected with friends and family through calls, messages, FaceTime video chats or social media apps. And with access to the App Store offering millions of apps to choose from, you can customize your iPhone to suit your lifestyle.
+
+Whether you're a professional looking for productivity tools or a creative individual
+
+Token Usage:
+Prompt Tokens     : 22
+Completion Tokens : 150
+Total Tokens      : 172
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Model: gpt-3.5-turbo
+Temperature: 0.0
+Max Tokens: 150
+Presence Penalty: 1.5
+Frequency Penalty: 0.0
+
+Assistant Response:
+The iPhone is a revolutionary smartphone that combines cutting-edge technology with sleek design. With its powerful performance, stunning display, and intuitive user interface, the iPhone offers a seamless experience for all your communication, entertainment, and productivity needs. Whether you're browsing the web, taking photos, playing games, or staying connected with friends and family, the iPhone delivers exceptional performance and reliability. Plus, with features like Face ID, Siri voice assistant, and Apple Pay, the iPhone makes everyday tasks easier and more convenient. Upgrade to the iPhone and discover a world of possibilities at your fingertips.
+
+Token Usage:
+Prompt Tokens     : 22
+Completion Tokens : 114
+Total Tokens      : 136
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Model: gpt-3.5-turbo
+Temperature: 0.0
+Max Tokens: 150
+Presence Penalty: 1.5
+Frequency Penalty: 1.5
+
+Assistant Response:
+The iPhone is a revolutionary smartphone that combines cutting-edge technology with sleek design. With its powerful performance, stunning display, and intuitive user interface, the iPhone offers an unparalleled mobile experience. Whether you're browsing the web, capturing memories with the high-quality camera, or staying connected with friends and family through messaging and social media apps, the iPhone delivers seamless functionality at your fingertips. Stay organized with productivity tools like calendars and reminders, enjoy immersive entertainment on-the-go with streaming services and games, and keep your personal information secure with advanced privacy features. The iPhone is more than just a phone - it's a versatile device that enhances every aspect of your daily life.
+
+Token Usage:
+Prompt Tokens     : 22
+Completion Tokens : 130
+Total Tokens      : 152
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Model: gpt-3.5-turbo
+Temperature: 0.0
+Max Tokens: 300
+Presence Penalty: 0.0
+Frequency Penalty: 0.0
+
+Assistant Response:
+The iPhone is a revolutionary smartphone that combines cutting-edge technology with sleek design. With its powerful processor, stunning Retina display, and advanced camera system, the iPhone offers a seamless user experience for both work and play. Stay connected with lightning-fast 5G connectivity, enjoy immersive multimedia with Dolby Atmos sound, and keep your data secure with Face ID technology. Whether you're a tech enthusiast, a professional on the go, or a creative individual, the iPhone is the perfect companion for all your needs. Elevate your mobile experience with the iPhone and discover a world of possibilities at your fingertips.
+
+Token Usage:
+Prompt Tokens     : 22
+Completion Tokens : 119
+Total Tokens      : 141
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Model: gpt-3.5-turbo
+Temperature: 0.0
+Max Tokens: 300
+Presence Penalty: 0.0
+Frequency Penalty: 1.5
+
+Assistant Response:
+The iPhone is a revolutionary smartphone that combines cutting-edge technology with sleek design. With its powerful performance, stunning display, and intuitive user interface, the iPhone offers a seamless experience for all your communication and entertainment needs. Whether you're browsing the web, taking photos, or staying connected with friends and family, the iPhone delivers exceptional performance and reliability. Plus, with access to the App Store's vast selection of apps and games, you can customize your iPhone to suit your lifestyle. Upgrade to an iPhone today and discover why it's one of the most popular smartphones in the world.
+
+Token Usage:
+Prompt Tokens     : 22
+Completion Tokens : 114
+Total Tokens      : 136
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Model: gpt-3.5-turbo
+Temperature: 0.0
+Max Tokens: 300
+Presence Penalty: 1.5
+Frequency Penalty: 0.0
+
+Assistant Response:
+The iPhone is a revolutionary smartphone that combines cutting-edge technology with sleek design. With its powerful performance, stunning display, and intuitive user interface, the iPhone offers a seamless experience for all your communication, entertainment, and productivity needs. Whether you're browsing the web, capturing memories with the high-quality camera, or staying connected with friends and family, the iPhone delivers exceptional performance and reliability. Plus, with access to the App Store, you can customize your device with a wide range of apps to suit your lifestyle. Upgrade to the iPhone and discover a world of possibilities at your fingertips.
+
+Token Usage:
+Prompt Tokens     : 22
+Completion Tokens : 115
+Total Tokens      : 137
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Model: gpt-3.5-turbo
+Temperature: 0.0
+Max Tokens: 300
+Presence Penalty: 1.5
+Frequency Penalty: 1.5
+
+Assistant Response:
+The iPhone is a revolutionary smartphone that combines cutting-edge technology with sleek design. With its powerful performance, stunning display, and intuitive user interface, the iPhone offers an unparalleled mobile experience. Whether you're browsing the web, capturing memories with the high-quality camera, or staying connected with friends and family through messaging and social media apps, the iPhone delivers seamless functionality at your fingertips. Stay organized with productivity tools like calendars and reminders, enjoy immersive entertainment on-the-go with streaming services and games, and keep your personal data secure with advanced privacy features. The iPhone is more than just a phone – it's a versatile device that enhances every aspect of your daily life.
+
+Token Usage:
+Prompt Tokens     : 22
+Completion Tokens : 130
+Total Tokens      : 152
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Model: gpt-3.5-turbo
+Temperature: 0.7
+Max Tokens: 50
+Presence Penalty: 0.0
+Frequency Penalty: 0.0
+
+Assistant Response:
+The iPhone is a revolutionary smartphone that offers cutting-edge technology and sleek design. With its high-quality camera, vibrant display, and powerful performance, the iPhone is perfect for staying connected, capturing memories, and getting things done on the go. Whether you're
+
+Token Usage:
+Prompt Tokens     : 22
+Completion Tokens : 50
+Total Tokens      : 72
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Model: gpt-3.5-turbo
+Temperature: 0.7
+Max Tokens: 50
+Presence Penalty: 0.0
+Frequency Penalty: 1.5
+
+Assistant Response:
+Introducing the revolutionary iPhone, a sleek and powerful smartphone that has redefined the way we stay connected. With its cutting-edge technology and seamless design, the iPhone offers an unparalleled user experience.
+
+Featuring a stunning Retina display, you can enjoy crystal
+
+Token Usage:
+Prompt Tokens     : 22
+Completion Tokens : 50
+Total Tokens      : 72
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Model: gpt-3.5-turbo
+Temperature: 0.7
+Max Tokens: 50
+Presence Penalty: 1.5
+Frequency Penalty: 0.0
+
+Assistant Response:
+The iPhone is a revolutionary smartphone that combines sleek design, cutting-edge technology, and seamless functionality. With its stunning Retina display, powerful A-series chip, and advanced camera system, the iPhone offers an unparalleled user experience.
+
+Whether you're browsing the web
+
+Token Usage:
+Prompt Tokens     : 22
+Completion Tokens : 50
+Total Tokens      : 72
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Model: gpt-3.5-turbo
+Temperature: 0.7
+Max Tokens: 50
+Presence Penalty: 1.5
+Frequency Penalty: 1.5
+
+Assistant Response:
+The iPhone is a revolutionary smartphone designed and developed by Apple Inc. Offering cutting-edge technology, sleek design, and seamless user experience, the iPhone has become a must-have device for millions of people worldwide. With its high-resolution display, powerful camera capabilities,
+
+Token Usage:
+Prompt Tokens     : 22
+Completion Tokens : 50
+Total Tokens      : 72
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Model: gpt-3.5-turbo
+Temperature: 0.7
+Max Tokens: 150
+Presence Penalty: 0.0
+Frequency Penalty: 0.0
+
+Assistant Response:
+The iPhone is a revolutionary smartphone that combines sleek design with cutting-edge technology. With its vibrant display, powerful processor, and advanced camera system, the iPhone offers a seamless user experience for both work and play. Stay connected with friends and family, capture stunning photos and videos, and access a wide range of apps and features to enhance your daily life. With its intuitive interface and robust security features, the iPhone is the perfect companion for anyone looking for a reliable and versatile mobile device. Choose the iPhone and experience the future of communication and entertainment in the palm of your hand.
+
+Token Usage:
+Prompt Tokens     : 22
+Completion Tokens : 113
+Total Tokens      : 135
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Model: gpt-3.5-turbo
+Temperature: 0.7
+Max Tokens: 150
+Presence Penalty: 0.0
+Frequency Penalty: 1.5
+
+Assistant Response:
+The iPhone is a revolutionary smartphone that offers seamless performance, stunning design, and innovative features. With its powerful processor, advanced camera capabilities, and user-friendly interface, the iPhone redefines what a mobile device can do. Whether you're capturing memories with the high-quality camera or staying connected with loved ones through FaceTime, the iPhone delivers an unparalleled experience. Its sleek and stylish design makes it a fashion statement while its robust security features ensure your data stays safe. Experience the future of technology with the iPhone - where innovation meets elegance.
+
+Token Usage:
+Prompt Tokens     : 22
+Completion Tokens : 105
+Total Tokens      : 127
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Model: gpt-3.5-turbo
+Temperature: 0.7
+Max Tokens: 150
+Presence Penalty: 1.5
+Frequency Penalty: 0.0
+
+Assistant Response:
+The iPhone is a revolutionary smartphone that combines sleek design with cutting-edge technology. With its stunning Retina display, powerful A-series chip, and intuitive iOS operating system, the iPhone offers an unmatched user experience. Whether you're capturing memories with the high-quality camera, staying connected with friends and family, or enjoying your favorite apps and games, the iPhone delivers exceptional performance in a compact and stylish package. Stay organized, entertained, and connected on-the-go with the iPhone - the ultimate mobile companion.
+
+Token Usage:
+Prompt Tokens     : 22
+Completion Tokens : 98
+Total Tokens      : 120
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Model: gpt-3.5-turbo
+Temperature: 0.7
+Max Tokens: 150
+Presence Penalty: 1.5
+Frequency Penalty: 1.5
+
+Assistant Response:
+The iPhone is a revolutionary smartphone that combines cutting-edge technology with sleek design. With its powerful processor, stunning Retina display, and advanced camera system, the iPhone offers an unparalleled user experience. From browsing the web to capturing high-quality photos and videos, this device does it all with ease. Its intuitive interface and seamless integration with other Apple products make staying connected effortless. Whether you're working on-the-go or simply enjoying your favorite apps and games, the iPhone delivers exceptional performance in a compact package. Elevate your mobile experience with the iconic iPhone.
+
+Token Usage:
+Prompt Tokens     : 22
+Completion Tokens : 109
+Total Tokens      : 131
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Model: gpt-3.5-turbo
+Temperature: 0.7
+Max Tokens: 300
+Presence Penalty: 0.0
+Frequency Penalty: 0.0
+
+Assistant Response:
+The iPhone is a revolutionary smartphone designed and developed by Apple Inc. With its sleek and stylish design, cutting-edge technology, and intuitive user interface, the iPhone offers a seamless and enjoyable mobile experience. 
+
+Featuring a stunning Retina display, powerful camera system, and advanced security features, the iPhone is perfect for capturing memories, staying connected with loved ones, and enjoying your favorite apps and content on the go. 
+
+Whether you're a tech enthusiast, a creative professional, or someone who simply appreciates quality and innovation, the iPhone is the perfect choice for those who demand the best in mobile technology. Elevate your digital lifestyle with the iPhone and experience the future of smartphones today.
+
+Token Usage:
+Prompt Tokens     : 22
+Completion Tokens : 136
+Total Tokens      : 158
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Model: gpt-3.5-turbo
+Temperature: 0.7
+Max Tokens: 300
+Presence Penalty: 0.0
+Frequency Penalty: 1.5
+
+Assistant Response:
+Introducing the revolutionary iPhone, a sleek and powerful device that combines cutting-edge technology with elegant design. With its stunning Retina display, advanced camera system, and lightning-fast performance, the iPhone is more than just a smartphone - it's a lifestyle essential.
+
+Stay connected in style with seamless FaceTime calls and high-quality video streaming. Capture memories in vivid detail with the dual-lens camera system, offering portrait mode for professional-looking photos. And with Apple's signature iOS operating system, you'll enjoy an intuitive user experience like never before.
+
+Whether you're working on-the-go or unwinding with your favorite apps and games, the iPhone delivers unmatched performance and reliability. Stay organized with Siri's intelligent voice assistant capabilities and secure your data effortlessly using Touch ID or Face ID.
+
+Experience innovation at your fingertips - choose the iPhone for unparalleled quality and sophistication in mobile technology.
+
+Token Usage:
+Prompt Tokens     : 22
+Completion Tokens : 171
+Total Tokens      : 193
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Model: gpt-3.5-turbo
+Temperature: 0.7
+Max Tokens: 300
+Presence Penalty: 1.5
+Frequency Penalty: 0.0
+
+Assistant Response:
+Introducing the latest iPhone, a sleek and powerful smartphone that redefines innovation. With its stunning design, cutting-edge features, and seamless performance, the iPhone is the ultimate device for anyone looking to stay connected and productive on-the-go.
+
+Featuring a brilliant Retina display, the iPhone offers crystal-clear visuals and vibrant colors that bring your photos, videos, and apps to life. The advanced A-series chip ensures smooth multitasking and lightning-fast performance, while the iOS operating system provides a user-friendly interface that is intuitive and easy to navigate.
+
+Capture every moment in stunning detail with the iPhone's high-quality camera, which allows you to take professional-grade photos and videos with ease. Stay connected with friends and family through FaceTime, or browse the web at lightning speed with the iPhone's high-speed connectivity options.
+
+Whether you're a tech enthusiast, a busy professional, or someone who simply wants the best in mobile technology, the iPhone is the perfect choice. Elevate your mobile experience with the iPhone and discover a world of possibilities at your fingertips.
+
+Token Usage:
+Prompt Tokens     : 22
+Completion Tokens : 208
+Total Tokens      : 230
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Model: gpt-3.5-turbo
+Temperature: 0.7
+Max Tokens: 300
+Presence Penalty: 1.5
+Frequency Penalty: 1.5
+
+Assistant Response:
+The iPhone is a revolutionary smartphone designed by Apple that combines sleek design with cutting-edge technology. With its stunning display, powerful performance, and intuitive user interface, the iPhone offers an unparalleled mobile experience. Whether you're browsing the web, taking photos with its high-quality camera, or staying connected with friends and family through messaging and social media apps, the iPhone is your go-to device for all your communication and entertainment needs. Plus, with features like Face ID for secure authentication and access to thousands of apps on the App Store, the iPhone ensures seamless integration into your digital lifestyle. Choose an iPhone today and discover why it's more than just a phone – it's a companion that enhances every aspect of your daily life.
+
+Token Usage:
+Prompt Tokens     : 22
+Completion Tokens : 142
+Total Tokens      : 164
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Model: gpt-3.5-turbo
+Temperature: 1.2
+Max Tokens: 50
+Presence Penalty: 0.0
+Frequency Penalty: 0.0
+
+Assistant Response:
+The iPhone is a flagship smartphone offering from Apple that epitomizes sophistication, functionality, and innovation. Boasting a sleek design crafted from premium materials, the iPhone combines form and function seamlessly. Its beautiful Retina display brings your content to life with vibrant
+
+Token Usage:
+Prompt Tokens     : 22
+Completion Tokens : 50
+Total Tokens      : 72
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Model: gpt-3.5-turbo
+Temperature: 1.2
+Max Tokens: 50
+Presence Penalty: 0.0
+Frequency Penalty: 1.5
+
+Assistant Response:
+The iPhone is a revolutionary smartphone designed by Apple, known for its sleek design, powerful performance, and user-friendly interface. With cutting-edge features such as Face ID for secure authentication, stunning Retina display for vivid visuals, and an advanced dual-camera system
+
+Token Usage:
+Prompt Tokens     : 22
+Completion Tokens : 50
+Total Tokens      : 72
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Model: gpt-3.5-turbo
+Temperature: 1.2
+Max Tokens: 50
+Presence Penalty: 1.5
+Frequency Penalty: 0.0
+
+Assistant Response:
+The iPhone is a powerful and sleek smartphone designed by Apple that offers a seamless blend of cutting-edge technology and exceptional user experience. Featuring a stunning Retina display, the iPhone delivers crystal-clear visuals for an immersive viewing experience. With a lightning-fast processor,
+
+Token Usage:
+Prompt Tokens     : 22
+Completion Tokens : 50
+Total Tokens      : 72
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Model: gpt-3.5-turbo
+Temperature: 1.2
+Max Tokens: 50
+Presence Penalty: 1.5
+Frequency Penalty: 1.5
+
+Assistant Response:
+Introducing the iPhone, a revolutionary device that has redefined the way we communicate, work, and play. Sleekly designed with cutting-edge technology, the iPhone offers unparalleled performance and functionality.
+
+Equipped with an advanced camera system for capturing stunning photos
+
+Token Usage:
+Prompt Tokens     : 22
+Completion Tokens : 50
+Total Tokens      : 72
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Model: gpt-3.5-turbo
+Temperature: 1.2
+Max Tokens: 150
+Presence Penalty: 0.0
+Frequency Penalty: 0.0
+
+Assistant Response:
+Introducing the iconic iPhone, designed by Apple to seamlessly combine cutting-edge technology and stunning aesthetics. From its sleek and premium build to its powerful performance, the iPhone is more than just a smartphone - it's an indispensable companion for your everyday life.
+
+With the latest innovations in mobile technology, the iPhone delivers lightning-fast speeds, crystal-clear display, and exceptional camera performance to capture all your precious moments in stunning detail. Whether you're staying connected with loved ones, taking breathtaking photos, or enjoying your favorite apps and games, the iPhone boasts unparalleled quality and reliability.
+
+Stay organized, entertained, and connected like never before with the iPhone, a device that sets the standard for excellence in the world of smartphones. Experience the future of communication and entertainment with the iPhone -
+
+Token Usage:
+Prompt Tokens     : 22
+Completion Tokens : 150
+Total Tokens      : 172
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Model: gpt-3.5-turbo
+Temperature: 1.2
+Max Tokens: 150
+Presence Penalty: 0.0
+Frequency Penalty: 1.5
+
+Assistant Response:
+The iPhone is a cutting-edge smartphone that combines sleek design with powerful performance. With its vibrant display and advanced camera capabilities, the iPhone delivers an unparalleled user experience. Whether you're browsing the web, watching videos, or staying connected with friends and family, the iPhone provides seamless performance to enhance your everyday life. Its intuitive interface, robust security features, and access to thousands of apps on the App Store make it a versatile companion for work or play. Choose the iPhone for top-of-the-line technology in the palm of your hand.
+
+Token Usage:
+Prompt Tokens     : 22
+Completion Tokens : 105
+Total Tokens      : 127
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Model: gpt-3.5-turbo
+Temperature: 1.2
+Max Tokens: 150
+Presence Penalty: 1.5
+Frequency Penalty: 0.0
+
+Assistant Response:
+The iPhone is a revolutionary smartphone that redefines the way we communicate, work, and play. With its sleek design, advanced technology, and cutting-edge features, the iPhone offers an unparalleled user experience. From the high-resolution display to the powerful processor, every aspect of the iPhone is designed to provide a seamless and intuitive experience. The iPhone also boasts an impressive camera system that captures stunning photos and videos, as well as Face ID for enhanced security. With access to the App Store and a wide range of apps, the iPhone is not just a phone – it's a versatile tool that can help you stay connected, productive, and entertained wherever you go. Whether you're a tech enthusiast, creative professional, or everyday user, the iPhone offers something for everyone
+
+Token Usage:
+Prompt Tokens     : 22
+Completion Tokens : 150
+Total Tokens      : 172
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Model: gpt-3.5-turbo
+Temperature: 1.2
+Max Tokens: 150
+Presence Penalty: 1.5
+Frequency Penalty: 1.5
+
+Assistant Response:
+The iPhone is a revolutionary smartphone designed and manufactured by Apple. Packed with incredible features, sleek design, and cutting-edge technology, the iPhone offers users an unparalleled mobile experience. The stunning Retina display provides vibrant colors and sharp images for all your entertainment needs.
+
+With advanced facial recognition technology like Face ID, you can unlock your phone securely with just a glance. The powerful A14 Bionic chip ensures lightning-fast performance, whether you're gaming, streaming content, or multitasking.
+
+Capture every moment in stunning detail with the high-quality camera system that includes multiple lenses for wide-angle shots and crisp portraits. Stay connected wherever you go with reliable 5G connectivity and enjoy seamless integration across all your Apple devices through iCloud.
+
+In addition to its impressive hardware capabilities
+
+Token Usage:
+Prompt Tokens     : 22
+Completion Tokens : 150
+Total Tokens      : 172
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Model: gpt-3.5-turbo
+Temperature: 1.2
+Max Tokens: 300
+Presence Penalty: 0.0
+Frequency Penalty: 0.0
+
+Assistant Response:
+The iPhone is a revolutionary smartphone crafted by Apple Inc., meticulously designed to blend cutting-edge technology with sleek aesthetics. With its stunning Retina display, powerful A-series chip, and advanced camera system, the iPhone offers an unparalleled user experience. The iOS operating system provides a seamless interface for effortless navigation and access to thousands of apps on the App Store. From capturing breathtaking photos and videos to staying connected through crystal-clear calls and messaging, the iPhone has become an essential part of modern life. With its robust security features and seamless integration with other Apple devices, the iPhone is a dynamic and versatile companion for both work and play. Elevate your mobile experience with the iPhone and discover the endless possibilities at your fingertips.
+
+Token Usage:
+Prompt Tokens     : 22
+Completion Tokens : 140
+Total Tokens      : 162
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Model: gpt-3.5-turbo
+Temperature: 1.2
+Max Tokens: 300
+Presence Penalty: 0.0
+Frequency Penalty: 1.5
+
+Assistant Response:
+Introducing the latest innovation from Apple - the iPhone. Seamlessly blending cutting-edge technology with sleek design, the iPhone offers unrivaled performance and user experience. Whether you're snapping stunning photos with its crystal-clear camera, streaming your favorite shows on its vibrant display, or staying connected with lightning-fast 5G speeds, the iPhone is your all-in-one device for work and play.
+
+With advanced security features such as Face ID and Apple's powerful A-series chipset ensuring smooth operation, you can trust in the reliability of your iPhone day in and day out. Endless customization options through the App Store let you tailor your device to suit your lifestyle - whether that means productivity tools for work or games to unwind.
+
+Experience true craftsmanship in every detail of this iconic smartphone: from precision-engineered components to a seamless integration between hardware and software that only Apple can deliver. With constant updates pushing boundaries for what a smartphone can do, the iPhone will continue to lead the pack as an essential part of modern living.
+
+Elevate every aspect of your mobile life with an iPhone – it's not just a phone; it’s an experience like no other. Discover endless possibilities waiting at your fingertips with Apple's flagship device today!
+
+Token Usage:
+Prompt Tokens     : 22
+Completion Tokens : 241
+Total Tokens      : 263
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Model: gpt-3.5-turbo
+Temperature: 1.2
+Max Tokens: 300
+Presence Penalty: 1.5
+Frequency Penalty: 0.0
+
+Assistant Response:
+Sure! Here is a product description for the iPhone:
+
+The iPhone combines sleek design, cutting-edge technology, and seamless performance into one remarkable device. Featuring a stunning Retina display with vivid colors and detailed graphics, the iPhone offers a visually immersive experience for all your content. With powerful A-series chips, it delivers lightning-fast performance for multitasking, gaming, and streaming.
+
+Capture every moment in breathtaking detail with the iPhone's advanced camera system, featuring intelligent HDR, portrait mode, and Night mode capabilities. Stay connected like never before with high-speed 5G connectivity, ensuring fast downloads, smooth video calls, and lag-free online browsing. The iPhone also provides enhanced security with Face ID for effortless unlocking and secure transactions.
+
+Equipped with innovative features such as Siri voice assistant, Apple Pay, and a wide range of apps available on the App Store, the iPhone offers endless possibilities for productivity, entertainment, and creativity. Choose from a range of stylish finishes and storage capacities to match your personal style and needs.
+
+Experience the ultimate blend of elegance and performance with the iPhone - a true icon of modern technology.
+
+Token Usage:
+Prompt Tokens     : 22
+Completion Tokens : 219
+Total Tokens      : 241
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+Model: gpt-3.5-turbo
+Temperature: 1.2
+Max Tokens: 300
+Presence Penalty: 1.5
+Frequency Penalty: 1.5
+
+Assistant Response:
+The iPhone is a revolutionary and sleek smartphone developed by Apple Inc. This iconic device combines cutting-edge technology, seamless functionality, and stylish design in one compact package. With its advanced features such as Face ID facial recognition, powerful A-series chip for lightning-fast performance, stunning Retina display with incredible color accuracy, and high-quality camera capabilities that capture every moment with precision - the iPhone redefines what it means to have a premium mobile experience.
+
+Stay connected like never before with fast 5G connectivity and iOS software that offers intuitive navigation and top-notch security measures. The App Store provides access to millions of apps designed to enhance productivity or provide endless entertainment options at your fingertips.
+
+Whether you're using it for work, play, or staying organized on-the-go - the iPhone elevates your everyday tasks through its impressive capabilities. Experience the ultimate convenience and innovation that only an iPhone can offer.
+
+Token Usage:
+Prompt Tokens     : 22
+Completion Tokens : 175
+Total Tokens      : 197
+
