@@ -9,11 +9,10 @@ A web-based tool for testing and comparing OpenAI API responses across different
 - **Model Selection**: Choose between GPT-3.5-turbo
 - **Custom Prompts**: Input your own system and user prompts
 - **Batch Testing**: Run all parameter combinations automatically
-- **Results Visualization**: View outputs in a grid/table format
-- **Export Functionality**: Download results as a text file
-- **Real-time Progress**: Track testing progress with visual indicators
+- **Results Visualization**: View outputs in a interactive_prompt_output.txt file
 
 ## How to Run the Playground
+- Just run interactive-prompt-playground\playground_code.py file ($ python -u "interactive-prompt-playground\playground_code.py")
 
 ### Prerequisites
 - Python
